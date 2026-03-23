@@ -1,50 +1,23 @@
-# Welcome to your Expo app 👋
+ My Profile App - React Native (Expo)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Bienvenue dans mon premier projet mobile ! Cette application est une carte de visite interactive développée avec **React Native**.
 
-## Get started
+Ce que j'ai réalisé :
+- UI Design: Création d'une interface moderne (Profile Card) avec Flexbox.
+- Interactivité: Intégration d'un bouton de contact fonctionnel avec `TouchableOpacity` et `Alert`.
+- Styling : Utilisation de `StyleSheet` pour un code propre et organisé.
+- Expo Router : Utilisation de la structure de dossiers moderne (`app/index.tsx`).
 
-1. Install dependencies
+ Technologies
+- Framework : React Native (Expo)
+- Language : JavaScript / TypeScript
+- Version Control : Git & GitHub
 
-   ```bash
-   npm install
-   ```
+ Comment tester l'app ?
+1. Clonez ce dépôt.
+2. Installez les dépendances : `npm install`.
+3. Lancez le projet : `npx expo start`.
+4. Scannez le QR Code avec l'application **Expo Go**.
 
-2. Start the app
 
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Projet réalisé par "Salma Rouadi "dans le cadre de mon apprentissage en Développement Digital.
